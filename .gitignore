@@ -1,2 +1,4 @@
 # exclude cdr
 *.unl 
+*.pyc
+all_data*
