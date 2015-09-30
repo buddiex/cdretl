@@ -1,0 +1,19 @@
+# packages in environment at C:\Users\osayamen\Anaconda\envs\etl_env:
+#
+aniso8601                 1.0.0                     <pip>
+flask                     0.10.1                    <pip>
+flask-restful             0.3.4                     <pip>
+flask-script              2.0.5                     <pip>
+flask-sqlalchemy          2.0                       <pip>
+itsdangerous              0.24                      <pip>
+jinja2                    2.8                       <pip>
+markupsafe                0.23                      <pip>
+pip                       7.1.2                    py27_0  
+pymysql                   0.6.6                    py27_0  
+python                    2.7.10                        0  
+pytz                      2015.4                    <pip>
+setuptools                18.1                     py27_0  
+six                       1.9.0                     <pip>
+sqlalchemy                1.0.8                     <pip>
+werkzeug                  0.10.4                    <pip>
+wheel                     0.24.0                   py27_0  
